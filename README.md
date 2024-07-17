@@ -1,4 +1,5 @@
 # Mini Project Description: Hot Dog or Not Hot Dog Classifier Using CNN
+![Hot Dog Image](nothotdog.jpg)
 ## Objective:
 To create a convolutional neural network (CNN) that can classify images as "hot dog" or "not hot dog." The project involves data preprocessing, model building, training, and evaluation.
 
